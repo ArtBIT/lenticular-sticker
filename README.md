@@ -1,2 +1,12 @@
-# lenticular-sticker
+# Lenticular Sticker simulated in THREE.js
+[![GitHub license](https://img.shields.io/github/license/ArtBIT/lenticular-sticker.svg)](https://github.com/ArtBIT/lenticular-sticker) [![GitHub stars](https://img.shields.io/github/stars/ArtBIT/lenticular-sticker.svg)](https://github.com/ArtBIT/lenticular-sticker)  [![awesomeness](https://img.shields.io/badge/awesomeness-maximum-red.svg)](https://github.com/ArtBIT/lenticular-sticker)
+
 Simple demo of the lenticular sticker effect using THREE.js
+
+# Demo
+Try out the live demo http://artbit.github.io/lenticular-sticker/
+
+
+# License
+
+[MIT](LICENSE.md)
