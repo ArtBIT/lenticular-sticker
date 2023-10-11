@@ -45,8 +45,8 @@
             const DEBUG = params.has("debug");
 
             const images = {};
-            images["image1"] = loadImage("/assets/images/left.jpg");
-            images["image2"] = loadImage("/assets/images/right.jpg");
+            images["image1"] = loadImage("./assets/images/left.jpg");
+            images["image2"] = loadImage("./assets/images/right.jpg");
 
             var renderer = new THREE.WebGLRenderer({ antialias: true });
             renderer.outputColorSpace = THREE.LinearSRGBColorSpace;
