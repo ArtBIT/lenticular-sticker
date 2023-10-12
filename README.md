@@ -4,6 +4,8 @@
 Simple demo of the lenticular sticker effect using THREE.js
 
 # Demo
+![lenticular](https://github.com/ArtBIT/lenticular-sticker/assets/184220/19c19f27-cbaa-489a-b7f5-2f4c96c90d06)
+
 Try out the live demo http://artbit.github.io/lenticular-sticker/
 
 
