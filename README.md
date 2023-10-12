@@ -10,7 +10,7 @@ Try out the live demo http://artbit.github.io/lenticular-sticker/
 
 # Credit
 
-Inspired by [boytchev's Hologram Sticker]([https://github.com/boytchev/etudes](https://boytchev.github.io/etudes/threejs/hologram-sticker.html)https://boytchev.github.io/etudes/threejs/hologram-sticker.html)
+Inspired by [boytchev's Hologram Sticker](https://boytchev.github.io/etudes/threejs/hologram-sticker.html)
 
 # License
 
