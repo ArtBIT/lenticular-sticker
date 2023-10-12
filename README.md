@@ -8,6 +8,9 @@ Simple demo of the lenticular sticker effect using THREE.js
 
 Try out the live demo http://artbit.github.io/lenticular-sticker/
 
+# Credit
+
+Inspired by [boytchev's etudes](https://github.com/boytchev/etudes)
 
 # License
 
